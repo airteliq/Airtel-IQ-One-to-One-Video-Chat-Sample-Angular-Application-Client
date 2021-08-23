@@ -1,0 +1,17 @@
+{
+    "/create-room/*" :{
+      "target":"https://localhost:4443",
+      "secure":false,
+      "logLevel":"debug"
+    },
+    "/get-room/*" :{
+      "target":"https://localhost:4443",
+      "secure":false,
+      "logLevel":"debug"
+    },
+    "/create-token/*" :{
+      "target":"https://localhost:4443",
+      "secure":false,
+      "logLevel":"debug"
+    }
+  }
