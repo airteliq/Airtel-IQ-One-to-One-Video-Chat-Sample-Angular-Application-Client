@@ -53,7 +53,7 @@ Clone this ```git clone https://github.com/airteliq/Airtel-IQ-One-to-One-Video-C
 
 While this GitHub repository provides sample client code, you require an application server to provision video room on Airtel Video IQ server.**Clone or download repository of your choice and configure the server as per the instructions given in the respective README document of the server repository chosen.** Use any of the Repository listed below to setup your application server:
 
-* [Nodejs](https://github.com/airtel/Airtel-IQ-One-to-One-Video-Chat-Sample-Web-Application-NodeJs-Server) 
+* [Nodejs](https://github.com/airteliq/Airtel-IQ-One-to-One-Video-Chat-Sample-Web-Application-NodeJs-Server) 
 
   
 
