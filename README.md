@@ -144,7 +144,7 @@ And many more such exciting features.
 
 [Read Web Toolkit Documentation](https://videoiq.airtel.in/developer/video-api/client-api/web-toolkit/) for more details.  
 
-[Download Web Toolkit](https://developer.videoiq.airtel.in/wp-content/uploads/EnxRtc.js.v1.9.3.zip?ver=1.9.3) to get the latest version of Web SDK. 
+[Download Web Toolkit](https://videoiq.airtel.in/developer/wp-content/uploads/EnxRtc.js.v1.0.0.zip) to get the latest version of Web SDK. 
 
  
 
