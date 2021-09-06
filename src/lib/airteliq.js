@@ -49,7 +49,7 @@ var options = {
       clickthru: "https://videoiq.airtel.in",
       target: "new",
       logo: "../assets/img/airtel-logo.png",
-      title: "Airtel IQ",
+      title: "Airtel Video IQ",
       position: "right",
     },
   },
